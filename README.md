@@ -1,0 +1,1 @@
+This code creates a simple to-do list application using Tkinter, allowing users to add, view, edit, and delete tasks along with marking them as complete, including setting reminders through a calendar interface.
